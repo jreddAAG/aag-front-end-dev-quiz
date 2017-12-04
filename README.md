@@ -12,38 +12,36 @@ After completing all the input fields in Step 1, user will see step 2 and so on.
 
 Step 1 - Input Requirements:
 
-Label: Select Home Value
-•	Input type selection
-•	Range ($50k-$950k with increment of $50k)
-•	Required
+- Label: Select Home Value
+--- Input type selection
+--- Range ($50k-$950k with increment of $50k)
+--- Required
 
-Label: Select Mortgage
-•	Input type selection
-•	Range ($50k-$950k with increment of $50k)
-•	Required
+- Label: Select Mortgage
+--- Input type selection
+--- Range ($50k-$950k with increment of $50k)
+--- Required
 
-Label: Enter Zip Code
-•	Input type text
-•	Required
-
+- Label: Enter Zip Code
+--- Input type text
+--- Required
 
 Step 2 - Input Requirements:
 
-Label: Select Age
-•	Input type selection
-•	Range (62 to 99)
+- Label: Select Age
+--- Input type selection
+--- Range (62 to 99)
 
-Label: Enter Full Name
-•	Input type text
-•	Required (first name & last name)
+- Label: Enter Full Name
+--- Input type text
+--- Required (first name & last name)
 
-Label: Enter Address 
-•	Input type text
-•	Required
-
+- Label: Enter Address 
+--- Input type text
+--- Required
 
 Step 3 - Input Requirements:
 
-Label: Enter Phone
-•	Input type number
-•	Required
+- Label: Enter Phone
+--- Input type number
+--- Required
