@@ -1,4 +1,4 @@
-# Creat A Lead Generation Landing Page
+# Create A Lead Generation Landing Page
 Instructions
 
 Create a landing page with the following fields that matches the designs found in the resources/mockups directory.
